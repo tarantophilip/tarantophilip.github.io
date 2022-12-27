@@ -1,0 +1,21 @@
+- title: Monash University
+  type: time_table
+  contents:
+    - title: Teaching Assistant / Tutor
+      institution: Monash University, Melbourne, Australia
+      year: 2018
+      description:
+        - Semester 2&#58 Second Year Core Physics&#58 Optics, electromagnetism & quantum theory.
+        - Semester 1&#58 Second Year Core Physics&#58 Electromagnetism, thermodynamics & entropy.
+    - title: Teaching Assistant / Tutor
+      institution: Monash University, Melbourne, Australia
+      year: 2017
+      description:
+        - Semester 2&#58 First Year Core Physics&#58 The Area for Physics & Astronomy Study Tutor.
+        - Semester 1&#58 Foundation Physics Laboratories&#58 Mechanics & kinematics, electromagnetism, quantum physics.
+    - title: Teaching Assistant / Tutor
+      institution: Monash University, Melbourne, Australia
+      year: 2015
+      description:
+        - Semester 2&#58 Advanced Engineering Maths&#58 Complex analysis, integral transforms, statistics.
+        - Semester 1&#58 Foundation Engineering Maths&#58 Functions, coordinate geometry, complex numbers, calculus, vector analysis.
