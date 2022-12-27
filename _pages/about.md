@@ -2,26 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Physics, School of Science,</p>
+    <p>University of Tokyo,</p>
+    <p>Japan</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Phil!
+Hi there 👋 I'm Philip Taranto, JSPS post-doctoral fellow hosted by the group of [Prof. Mio Murao](https://www.eve.phys.s.u-tokyo.ac.jp/indexe.htm) at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My main research interests lie at the interface of quantum physics, mathematics, and information science, focusing on fields including (but not limited to): quantum information theory, open quantum dynamics, quantum thermodynamics, quantum foundations, correlations & entanglement, stochastic & complex processes, quantum computation & simulation, and philosophy of physics & science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+All of my scientific articles are freely available on [arXiv](https://arxiv.org/a/0000-0002-4247-3901.html) and some statistics regarding them can be found on [Google Scholar](https://scholar.google.com/citations?user=8RPclskAAAAJ&hl=en).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to contact via email: [philipguy.taranto@phys.s.u-tokyo.ac.jp](mailto:philipguy.taranto@phys.s.u-tokyo.ac.jp). 
