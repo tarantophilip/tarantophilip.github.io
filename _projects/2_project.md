@@ -2,7 +2,7 @@
 layout: page
 title: Quantum Thermodynamics
 description: A poster about understanding the resource requirements to prepare pure quantum states.
-img: assets/img/11.jpg
+img: assets/img/LandauerVsNernst_Poster.png
 importance: 2
 category: posters
 ---

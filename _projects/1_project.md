@@ -2,7 +2,7 @@
 layout: page
 title: Memory Effects
 description: A poster about how to characterise and understand important multi-time properties of quantum memory, such as length, structure, and strength.
-img: assets/img/12.jpg
+img: assets/img/Operational Characterisation of Quantum Memory Effects via Multi-Time Probing Schemes-Poster.png
 importance: 1
 category: posters
 ---
