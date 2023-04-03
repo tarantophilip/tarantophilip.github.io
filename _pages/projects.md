@@ -6,7 +6,7 @@ description: A collection of materials related to my research.
 nav: true
 nav_order: 3
 display_categories: [posters,podcasts]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
