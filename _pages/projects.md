@@ -5,8 +5,8 @@ permalink: /materials/
 description: A collection of materials related to my research.
 nav: true
 nav_order: 3
-%display_categories: [work, fun]
-horizontal: false
+display_categories: [work, fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
