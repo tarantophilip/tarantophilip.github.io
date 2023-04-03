@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Cooling
-description: A poster about understanding the resource requirements to prepare pure quantum states.
+description: Understanding the resource requirements to prepare pure quantum states in a thermodynamic context.
 img: assets/img/LandauerVsNernst_Poster.png
 importance: 2
 category: posters

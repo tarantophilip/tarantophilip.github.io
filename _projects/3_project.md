@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Nice to Know
-description: Philosophy? Technology? Quantum Physics
-img: assets/img/7.jpg
+title: Nice to Know Podcast
+description: Philosophy? Technology? Quantum Physics.
+img: assets/img/nice-to-know.jpg
 importance: 3
 redirect: https://www.buzzsprout.com/1050370/4553819-ep-9-philosophy-technology-quantum-physics-with-philip-taranto
 category: podcasts
