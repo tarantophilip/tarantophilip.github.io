@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Operational Characterisation of Quantum Memory Effects via Multi-Time Probing Schemes
-%description: A poster about...
+description: A poster about...
 img: assets/img/12.jpg
 importance: 1
 category: posters
