@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ...
-description: ...
+title: Nice to Know
+description: Ep. 9: Philosophy? Technology? Quantum Physics
 img: assets/img/7.jpg
 importance: 3
 category: podcasts
