@@ -5,7 +5,7 @@ description: Ep. 9: Philosophy? Technology? Quantum Physics.
 img: assets/img/7.jpg
 redirect: https://www.buzzsprout.com/1050370/4553819-ep-9-philosophy-technology-quantum-physics-with-philip-taranto
 importance: 1
-category: podcasts
+category: posters
 ---
 
 Every project has a beautiful feature showcase page.
