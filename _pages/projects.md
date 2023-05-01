@@ -2,7 +2,7 @@
 layout: page
 title: materials
 permalink: /materials/
-description: A collection of materials related to my research.
+description: a collection of materials related to my research.
 nav: true
 nav_order: 3
 display_categories: [posters,podcasts]
