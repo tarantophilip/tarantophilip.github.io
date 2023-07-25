@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there 👋 I'm Philip Taranto, JSPS post-doctoral fellow hosted by the group of [Prof. Mio Murao](https://www.eve.phys.s.u-tokyo.ac.jp/indexe.htm) at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+Hi there 👋 I'm Philip Taranto, JSPS post-doctoral fellow hosted by the group of [Prof. Mio Murao](https://muraoken-new.uh-oh.jp/) at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 My main research interests lie at the interface of quantum physics, mathematics, and information science, focusing on fields including (but not limited to): quantum information theory, open quantum dynamics, quantum thermodynamics, quantum foundations, correlations & entanglement, stochastic & complex processes, quantum computation & simulation, and philosophy of physics & science.
 

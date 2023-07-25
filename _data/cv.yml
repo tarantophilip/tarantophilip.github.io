@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 13 September 1993
     - name: Languages
-      value: English (native), German (intermediate)
+      value: English (native), German (intermediate), Italian (intermediate), Japanese (basic)
 
 - title: Employment
   type: time_table
