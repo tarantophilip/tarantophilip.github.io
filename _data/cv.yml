@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Philip Taranto
-    - name: Date of Birth
-      value: 13 September 1993
+    - name: Year & Place of Birth
+      value: 1993, Melbourne, Australia
     - name: Languages
       value: English (native), German (intermediate), Italian (intermediate), Japanese (basic)
 
@@ -13,7 +13,7 @@
   contents:
     - title: Post-Doctoral Researcher
       institution: University of Tokyo, Tokyo, Japan
-      year: 2023—2022
+      year: Present—2022
       description:
         - Hosted by <a href="https://www.eve.phys.s.u-tokyo.ac.jp/indexe.htm">Mio Murao Group</a>
         - Funding&#58 <a href="https://www.jsps.go.jp/english/e-fellow/index.html">JSPS Fellowship (Short-Term Program)</a>
