@@ -10,7 +10,5 @@ Presented at: International Conference on Quantum Energy (Melbourne, Australia, 
 
 Based upon: arXiv:2307.11905 (2023).
 
-You can [download slides](https://tarantophilip.github.io/assets/pdf/1909.05245.pdf) here.
-
-
+<embed src="https://tarantophilip.github.io/assets/pdf/1909.05245.pdf" type="application/pdf"/>
 
