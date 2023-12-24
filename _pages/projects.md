@@ -5,7 +5,7 @@ permalink: /materials/
 description: a collection of materials related to my research.
 nav: true
 nav_order: 3
-display_categories: [talks,posters,podcasts]
+display_categories: [posters,podcasts]
 horizontal: false
 ---
 
