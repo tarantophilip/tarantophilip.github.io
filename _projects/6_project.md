@@ -2,7 +2,7 @@
 layout: page
 title: Complex Multi-time Quantum Phenomena
 description: Describing Complex Multi-time Phenomena in the Quantum Realm. 
-project_pdf: assets/pdf/Talk - Describing Complex Phenomena.pdf
+%project_pdf: assets/pdf/Talk - Describing Complex Phenomena.pdf
 importance: 2
 category: talks
 ---
