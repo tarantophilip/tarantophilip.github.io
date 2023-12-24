@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: pages
 title: Characterising and Controlling Complex Quantum Processes with Classical Memory
 cv_pdf: assets/pdf/Talk - Quantum Processes with Classical Memory.pdf
 importance: 1
@@ -11,6 +11,8 @@ Presented at: International Conference on Quantum Energy (Melbourne, Australia, 
 Based upon: arXiv:2307.11905 (2023).
 
 To access slides, please click the pdf icon on the right.
+
+<object data="{{ assets/pdf/Talk - Quantum Processes with Classical Memory.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
 
 
