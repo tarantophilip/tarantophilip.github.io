@@ -2,7 +2,7 @@
 layout: page
 title: Exponential Improvement for Quantum Cooling
 description: Exponential improvement for quantum cooling through finite-memory effects
-%project_pdf: assets/pdf/Talk - Exponential improvement.pdf
+pdf: assets/pdf/Talk - Exponential improvement.pdf
 importance: 5
 category: talks
 ---
