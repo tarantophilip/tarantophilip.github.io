@@ -14,7 +14,7 @@ To access slides, please click the pdf icon on the right.
 
         <div class="post">
 
-	<object data="../assets/pdf/Talk - Quantum Processes with Classical Memory.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
+	<object data="../assets/pdf/1909.05245.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
 
         </div>
 
