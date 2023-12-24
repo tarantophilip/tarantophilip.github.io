@@ -12,7 +12,11 @@ Based upon: arXiv:2307.11905 (2023).
 
 To access slides, please click the pdf icon on the right.
 
-<object data="{{ assets/pdf/Talk - Quantum Processes with Classical Memory.pdf }}" width="1000" height="1000" type='application/pdf'/>
+        <div class="post">
+
+	<object data="../assets/pdf/Talk - Quantum Processes with Classical Memory.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
+
+        </div>
 
 
 
