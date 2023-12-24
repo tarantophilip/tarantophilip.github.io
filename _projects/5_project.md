@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Quantum Processes with Classical Memory
 description: Characterising and Controlling Complex Quantum Processes with Classical Memory (arXiv:2307.11905). 
 project_pdf: assets/pdf/Talk - Quantum Processes with Classical Memory.pdf
