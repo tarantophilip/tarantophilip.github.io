@@ -10,3 +10,4 @@ Presented at: International Conference on Quantum Energy (Melbourne, Australia, 
 
 Based upon: arXiv:2307.11905 (2023).
 
+To access slides, please click the pdf icon on the right.
