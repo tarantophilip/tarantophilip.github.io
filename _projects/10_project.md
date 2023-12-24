@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Non-Markovianity, Coherence, and Classicality
-description: Non-Markovianity, Coherence and Classicality
-img: assets/pdf/Talk - Non-Markovianity, Coherence and Classicality.pdf
+cv_pdf: assets/pdf/Talk - Non-Markovianity, Coherence and Classicality.pdf
 importance: 6
 category: talks
 ---

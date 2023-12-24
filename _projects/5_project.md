@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Quantum Processes with Classical Memory
-description: Characterising and Controlling Complex Quantum Processes with Classical Memory. 
-img: assets/pdf/Talk - Quantum Processes with Classical Memory.pdf
+title: Characterising and Controlling Complex Quantum Processes with Classical Memory
+cv_pdf: assets/pdf/Talk - Quantum Processes with Classical Memory.pdf
 importance: 1
 category: talks
 ---
