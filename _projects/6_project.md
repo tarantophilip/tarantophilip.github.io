@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Describing Complex Multi-time Phenomena in the Quantum Realm
 cv_pdf: assets/pdf/Talk - Describing Complex Phenomena.pdf
 importance: 2
