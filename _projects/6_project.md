@@ -1,7 +1,7 @@
 ---
-layout: teaching
+layout: page
 title: Describing Complex Multi-time Phenomena in the Quantum Realm
-teaching_pdf: assets/pdf/Talk - Describing Complex Phenomena.pdf
+cv_pdf: assets/pdf/Talk - Describing Complex Phenomena.pdf
 importance: 2
 category: talks
 ---
