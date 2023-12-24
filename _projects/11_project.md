@@ -2,7 +2,7 @@
 layout: page
 title: Memory Effects in Quantum Processes
 description: Memory Effects in Quantum Processes
-pdf: assets/pdf/Talk - Memory Effects in Quantum Processes.pdf
+img: assets/pdf/Talk - Memory Effects in Quantum Processes.pdf
 importance: 6
 category: talks
 ---

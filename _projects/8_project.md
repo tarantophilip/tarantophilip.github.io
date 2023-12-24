@@ -2,7 +2,7 @@
 layout: page
 title: Landauer vs. Nernst
 description: What is the True Cost of Cooling a Quantum System?
-pdf: assets/pdf/Talk - Landauer vs Nernst.pdf
+img: assets/pdf/Talk - Landauer vs Nernst.pdf
 importance: 2
 category: talks
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Hidden Quantum Memory
 description: Is Memory There When Somebody Looks?
-pdf: assets/pdf/Talk - Hidden Quantum Memory.pdf
+img: assets/pdf/Talk - Hidden Quantum Memory.pdf
 importance: 3
 category: talks
 ---
