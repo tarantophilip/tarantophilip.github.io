@@ -3,7 +3,7 @@ layout: page
 title: Classical Memory
 description: Characterising the hierarchy of multi-time quantum processes with classical memory.
 img: assets/img/Characterising_the_Hierarchy_of_Multitime_Quantum_Processes_with_Classical_Memory.png
-importance: 1
+importance: 2
 category: posters
 ---
 

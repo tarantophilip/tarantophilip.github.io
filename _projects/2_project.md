@@ -3,7 +3,7 @@ layout: page
 title: Quantum Cooling
 description: Determining the resource requirements to prepare pure quantum states in a thermodynamic context.
 img: assets/img/LandauerVsNernst_Poster.png
-importance: 2
+importance: 3
 category: posters
 ---
 
