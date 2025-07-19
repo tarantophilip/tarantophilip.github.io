@@ -1,0 +1,10 @@
+github_users:
+  - jessicabavaresco
+
+github_repos:
+  - mtcq/switch_simulation
+  - jessicabavaresco/singleshot-bayesian-estimation
+  - mtcq/unitary_channel_discrimination
+  - mtcq/channel_discrimination
+  - jessicabavaresco/SDI-causality
+  - jessicabavaresco/most-incompatible-measurements
