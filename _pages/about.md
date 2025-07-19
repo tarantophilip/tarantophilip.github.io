@@ -11,9 +11,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Schuster Building 7.13,</p>
-    <p>Department of Physics & Astronomy,</p>
-    <p>The University of Manchester,</p>
-    <p>Manchester, United Kingdom</p>
+    <p>Dept. of Physics & Astronomy,</p>
+    <p>University of Manchester,</p>
+    <p>United Kingdom</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
