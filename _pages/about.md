@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-description: Research scientist (<em>chargée de recherche</em>) | <a href='https://qi.lip6.fr'>Quantum Information Team</a>, <a href='https://www.lip6.fr/jessica.bavaresco'>LIP6</a> | CNRS & Sorbonne University | Paris, France <br>
+description: Lecturer | <a href='https://theory.physics.manchester.ac.uk/groups/index.php/home/groups/manqs/'>Manchester Quantum Systems Group</a> | The University of Manchester | Manchester, UK <br>
 
 
 profile:
@@ -10,12 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 25-26/325</p>
-    <p>Campus Pierre et Marie Curie</p>
-    <p>4 Pl. Jussieu </p>
-    <p>75005 Paris </p>
-    <p>France </p>
-    <p>Phone: +33 1 44 27 87 66 <b></b></p>
+    <p>Schuster Building, Room 7.13 (Level 7),</p>
+    <p>Department of Physics & Astronomy, School of Natural Sciences,</p>
+    <p>The University of Manchester,</p>
+    <p>Manchester, United Kingdom</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,13 +21,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Jessica Bavaresco. As of 2025, I'm a permanent research scientist (<em>CNRS chargée de recherche</em>) in the <a href='https://qi.lip6.fr'>QI team</a> at <a href='https://www.lip6.fr/jessica.bavaresco'>LIP6,</a> a CNRS & Sorbonne University computer science laboratory in Paris, France. I work with quantum information science.
+Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The University of Manchester](https://www.manchester.ac.uk/), leading the Quantum Information & Spatiotemporal Phenomena (QuISP) research group.
 
-My main research interests are in higher-order operations and quantum correlations. Some of the topics I have worked on recently involve quantum networks, Bell nonlocality, channel discrimination, genuine multipartite entanglement, metrology, boxworld correlations, and indefinite causal order.
+"Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents something of a paradox: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource---imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how we can leverage it for computational advantages, with particular focus on spatial-temporal correlations, quantum thermodynamics, and information processing.
 
-I was previously a SNSF Swiss Postdoctoral Fellow at the University of Geneva, Switzerland (2022-2025) and before that, I was a postdoc in the Young Independent Research Group (YIRG) at IQOQI Vienna, Austria (2021-2022). I obtained a PhD in physics at the University of Vienna, Austria, in 2021. 
+I was previously a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that, I obtained a PhD in physics at the University of Vienna, Austria (2022). 
 
-Here you will find a collection of all my papers and theses, code repositories, some of my talks and posters, my CV, and recent news.
+Here you will find a collection of all my papers and theses, some of my talks and posters, my CV, and recent news.
+
+All of my scientific articles are freely available on [arXiv](https://arxiv.org/a/0000-0002-4247-3901.html) and some statistics regarding them can be found on [Google Scholar](https://scholar.google.com/citations?user=8RPclskAAAAJ&hl=en).
+
+Feel free to contact via email: [philip.taranto@manchester.ac.uk](mailto:philip.taranto@manchester.ac.uk). 
 
 [comment]: # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
