@@ -10,8 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Schuster Building, Room 7.13 (Level 7),</p>
-    <p>Department of Physics & Astronomy, School of Natural Sciences,</p>
+    <p>Schuster Building 7.13,</p>
+    <p>Department of Physics & Astronomy,</p>
     <p>The University of Manchester,</p>
     <p>Manchester, United Kingdom</p>
 
