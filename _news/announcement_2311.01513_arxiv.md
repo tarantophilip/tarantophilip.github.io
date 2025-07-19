@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-02 16:11:00-0400
+date: 2025-03-12 00:00:00
 inline: true
 related_posts: false
 ---
 
-Our paper about Bayesian parameter estimation with higher-order operations is on the arXiv: <a href="https://arxiv.org/abs/2311.01513">arXiv:2311.01513 [quant-ph]<a/>
+Our tutorial and review article on higher-order quantum operations is finally out: <a href="https://arxiv.org/abs/2503.09693">arXiv:2503.09693</a>.
