@@ -58,24 +58,24 @@
   selected = {true}
 }
 
-@article{bavaresco2023designing,
-  author = {Jessica Bavaresco and Patryk Lipka-Bartosik and Pavel Sekatski and Mohammad Mehboudi},
-  title = {Designing optimal protocols in Bayesian quantum parameter estimation with higher-order operations},
-  journal = {Physical Review Research},
-  volume = {6},
-  issue = {2},
-  pages = {023305},
-  numpages = {18},
-  year = {2024},
-  doi = {10.1103/PhysRevResearch.6.023305},
+@article{odake2025transforming,
+  author = {Tatsuki Odake and Hlér Kristjánsson and Philip Taranto and Mio Murao},
+  title = {{Universal algorithm for transforming Hamiltonian eigenvalues}},
+  journal = {Phys. Rev. Research},
+  volume = {7},
+  issue = {},
+  pages = {013331},
+  numpages = {},
+  year = {2025},
+  doi = {10.1103/PhysRevResearch.7.013331},
   publisher = {American Physical Society},
-  abstract = {Using quantum systems as sensors or probes has been shown to greatly improve the precision of parameter estimation by exploiting unique quantum features such as entanglement. A major task in quantum sensing is to design the optimal protocol, i.e., the most precise one. It has been solved for some specific instances of the problem, but in general even numerical methods are not known. Here, we focus on the single-shot Bayesian setting, where the goal is to find the optimal initial state of the probe (which can be entangled with an auxiliary system), the optimal measurement, and the optimal estimator function. We leverage the formalism of higher-order operations to develop a method based on semidefinite programming that finds a protocol that is close to the optimal one with arbitrary precision. Crucially, our method is not restricted to any specific quantum evolution, cost function or prior distribution, and thus can be applied to any estimation problem. Moreover, it can be applied to both single or multiparameter estimation tasks. We demonstrate our method with three examples, consisting of unitary phase estimation, thermometry in a bosonic bath, and multiparameter estimation of an SU(2) transformation. Exploiting our methods, we extend several results from the literature. For example, in the thermometry case, we find the optimal protocol at any finite time and quantify the usefulness of entanglement. Additionally, we show that when the cost function is the mean squared error, projective measurements are optimal for estimation.},
+  abstract = {Manipulating Hamiltonians governing physical systems has found a broad range of applications, from quantum chemistry to semiconductor design. In this work, we provide a way of manipulating Hamiltonians, by transforming their eigenvalues while keeping their eigenstates unchanged. We develop a universal algorithm that deterministically implements any desired (suitably differentiable) function on the eigenvalues of any unknown Hamiltonian, whose positive-time and negative-time dynamics are given as a black box. Our algorithm uses correlated randomness to efficiently combine two subroutines—namely controlization and Fourier series simulation—exemplifying a general compilation procedure that we develop. The time complexity of our algorithm is significantly reduced via said compilation technique compared to a naïve concatenation of the subroutines and outperforms similar methods based on the quantum singular value transformation.},
   archivePrefix={arXiv},
-  eprint={2311.01513},
+  eprint={2312.08848},
   primaryClass={quant-ph},
-  %pdf = {papers/2311.01513.pdf},   
-  preview = {bavaresco2023designing.jpg},
-  selected = {true}
+  %pdf = {},   
+  preview = {odake2025transforming.jpg},
+  selected = {false}
 }
 
 @article{taranto2025efficiently,
