@@ -3,7 +3,7 @@ layout: page
 title: Materials
 permalink: /materials/
 description: Here are some of my talks and posters.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [talks, posters]
 horizontal: false
