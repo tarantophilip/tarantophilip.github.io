@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Jessica Bavaresco",
+    "name": "Philip Taranto",
     "label": "",
     "image": "",
     "birth": "",
     "nationality": "",
-    "email": "jessica.bavaresco (at) lip6.fr",
-    "phone": " +33 1 44 27 87 66 ",
-    "url": "https://qi.lip6.fr/team/",
+    "email": "philip.taranto@manchester.ac.uk",
+    "phone": "",
+    "url": "https://theory.physics.manchester.ac.uk/groups/index.php/home/groups/manqs/",
     "summary": "",
-    "address": "Room 25-26/325, 4 Pl. Jussieu, 75005 Paris, France",
+    "address": "Room 7.13, Schuster Building, The University of Manchester, UK",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,62 +27,38 @@
   },
   "work": [
     {
-        "name": "LIP6, CNRS & Sorbonne University, France",
-        "position": "Permanent research scientist (chargée de recherche)",
-        "url": "https://qi.lip6.fr/team/",
-        "startDate": "2025-02-01",
+        "name": "The University of Manchester, UK",
+        "position": "Lecturer (Assistant Professor)",
+        "url": "https://research.manchester.ac.uk/en/persons/philip-taranto",
+        "startDate": "2025-01-27",
         "endDate": "",
         "summary": "",
         "highlights": [
-          "Team: Quantum Information (QI) Team"
+          "Manchester Quantum Systems Group"
         ]
       },
     {
-      "name": "Department of Applied Physics, University of Geneva, Switzerland",
-      "position": "SNSF Postdoctoral Fellow (maître assistante)",
-      "url": "https://www.unige.ch/gap/qic/theory/team",
-      "startDate": "2023-10-01",
-      "endDate": "2025-01-31",
+      "name": "The University of Tokyo, Japan",
+      "position": "JSPS Postdoctoral Fellow",
+      "url": "https://www.eve.phys.s.u-tokyo.ac.jp/",
+      "startDate": "2022-12-01",
+      "endDate": "2025-01-10",
       "summary": "",
       "highlights": [
-        "Supervisor: Prof. Nicolas Brunner",
-        "Group: Quantum Theory Group"
+        "Supervisor: Prof. Mio Murao",
+        "Quantum Information Group"
       ]
     },
     {
-      "name": "Department of Applied Physics, University of Geneva, Switzerland",
+      "name": "TU Wien, Austria",
       "position": "Postdoctoral Researcher",
-      "url": "",
-      "startDate": "2022-06-01",
-      "endDate": "2023-09-30",
+      "url": "https://www.iqoqi-vienna.at/research/huber-group/the-role-of-quantum-information-in-thermodynamics",
+      "startDate": "2022-07-01",
+      "endDate": "2022-11-30",
       "summary": "",
       "highlights": [
-          "Supervisor: Prof. Nicolas Brunner",
-          "Group: Quantum Theory Group"
-      ]
-    },
-    {
-      "name": "IQOQI Vienna, Austrian Academy of Sciences, Austria",
-      "position": "Postdoctoral Researcher",
-      "url": "",
-      "startDate": "2021-07-01",
-      "endDate": "2022-05-30",
-      "summary": "",
-      "highlights": [
-        "Supervisor: Dr. Ämin Baumeler, Dr. Costantino Budroni, and Dr. Yelena Guryanova",
-        "Group: Young Independent Research Group (YIRG)"
-      ]
-    },
-    {
-      "name": "IQOQI Vienna, Austrian Academy of Sciences, Austria",
-      "position": "Praedoctoral Researcher",
-      "url": "",
-      "startDate": "2016-10-21",
-      "endDate": "2021-06-30",
-      "summary": "",
-      "highlights": [
-        "Supervisor: Prof. Marcus Huber",
-        "Group: Quantum Information and Thermodynamics (QUIT)"
+          "Supervisor: Prof. Marcus Huber",
+          "Quantum Information & Thermodynamics Group"
       ]
     }
   ],
