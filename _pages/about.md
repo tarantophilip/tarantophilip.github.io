@@ -12,7 +12,7 @@ profile:
   address: >
     <p>Schuster Building 7.13,</p>
     <p>Physics & Astronomy,</p>
-    <p>University of Manchester,</p>
+    <p>Univ. of Manchester,</p>
     <p>United Kingdom</p>
 
 news: true  # includes a list of news items
