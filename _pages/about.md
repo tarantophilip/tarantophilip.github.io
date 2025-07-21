@@ -25,13 +25,13 @@ Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The Univ
 
 "Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents a unique challenge: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource --- imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how it can be harnessed, tackling problems that range from the very foundations of information processing all the way to practical next-generation paradigms of computation and communication. 
 
-I was previously a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that, I obtained a PhD in physics at the University of Vienna, Austria (2022). 
+I was previously a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that I obtained a PhD in physics at the University of Vienna, Austria (2022). 
 
-Here you will find a collection of all my papers and theses, some of my talks and posters, my CV, and recent news.
+Here you will find a collection of all my papers and theses, some talks and posters, my CV, and recent news.
 
 All of my scientific articles are freely available on [arXiv](https://arxiv.org/a/0000-0002-4247-3901.html) and some statistics regarding them can be found on [Google Scholar](https://scholar.google.com/citations?user=8RPclskAAAAJ&hl=en).
 
-Feel free to contact via email: [philip.taranto@manchester.ac.uk](mailto:philip.taranto@manchester.ac.uk). 
+Feel free to contact me via email: [philip.taranto@manchester.ac.uk](mailto:philip.taranto@manchester.ac.uk). 
 
 [comment]: # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
