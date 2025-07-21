@@ -1,36 +1,67 @@
----
-layout: default
----
-<div class="post">
-  <article>
-    {% if page.profiles %}
-      {% for profile in page.profiles %}
-        <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-          {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-          {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-        </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Team Profiles</title>
+  <link rel="stylesheet" href="assets/css/styles.css"> <!-- Adjust as needed -->
+  <style>
+    .profile {
+      margin: 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .profile img {
+      max-width: 150px;
+      height: auto;
+      margin: 0 20px 20px 0;
+    }
+    .float-left {
+      flex-direction: row;
+    }
+    .float-right {
+      flex-direction: row-reverse;
+    }
+    .more-info {
+      font-style: italic;
+      margin-bottom: 10px;
+    }
+    .clearfix {
+      clear: both;
+    }
+  </style>
+</head>
+<body>
+  <div class="post">
+    <article>
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-        </div>
-      {% endfor %}
-    {% endif %}
-  </article>
-</div>
+      <!-- Profile 1 -->
+      <hr>
+      <div class="profile float-left">
+        <img src="assets/img/profile1.jpg" alt="Profile 1" class="img-fluid z-depth-1 rounded-circle" loading="eager">
+        <div class="more-info">Research Scientist, PhD in Computer Vision</div>
+      </div>
+      <div class="clearfix">
+        <p>
+          John Doe is a researcher with experience in AI, machine learning, and computer vision. He has published over 20 papers in top-tier conferences.
+        </p>
+      </div>
+
+      <!-- Profile 2 -->
+      <hr>
+      <div class="profile float-right">
+        <img src="assets/img/profile2.jpg" alt="Profile 2" class="img-fluid z-depth-1 rounded" loading="eager">
+        <div class="more-info">Software Engineer, MSc in Robotics</div>
+      </div>
+      <div class="clearfix">
+        <p>
+          Jane Smith specializes in autonomous systems and robotics. She leads development for real-time robotic control systems.
+        </p>
+      </div>
+
+      <!-- Add more profiles similarly -->
+
+    </article>
+  </div>
+</body>
+</html>
