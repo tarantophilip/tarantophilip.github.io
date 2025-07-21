@@ -1,67 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Team Profiles</title>
-  <link rel="stylesheet" href="assets/css/styles.css"> <!-- Adjust as needed -->
-  <style>
-    .profile {
-      margin: 20px 0;
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-    .profile img {
-      max-width: 150px;
-      height: auto;
-      margin: 0 20px 20px 0;
-    }
-    .float-left {
-      flex-direction: row;
-    }
-    .float-right {
-      flex-direction: row-reverse;
-    }
-    .more-info {
-      font-style: italic;
-      margin-bottom: 10px;
-    }
-    .clearfix {
-      clear: both;
-    }
-  </style>
-</head>
+<head><meta charset="UTF-8"><title>{{ page.title }}</title></head>
 <body>
-  <div class="post">
-    <article>
-
-      <!-- Profile 1 -->
+  <article>
+    {% for profile in page.profiles %}
       <hr>
-      <div class="profile float-left">
-        <img src="assets/img/profile1.jpg" alt="Profile 1" class="img-fluid z-depth-1 rounded-circle" loading="eager">
-        <div class="more-info">Research Scientist, PhD in Computer Vision</div>
+      <div class="profile float-{{ profile.align }}">
+        {% if profile.image %}
+          <img src="{{ '/assets/img/' | append: profile.image | relative_url }}"
+               alt="{{ profile.name }}"
+               class="img-fluid z-depth-1 {{ profile.image_circular | default: true | ? 'rounded-circle':'rounded' }}">
+        {% endif %}
+        {% if profile.more_info %}
+          <div class="more-info">{{ profile.more_info }}</div>
+        {% endif %}
       </div>
       <div class="clearfix">
-        <p>
-          John Doe is a researcher with experience in AI, machine learning, and computer vision. He has published over 20 papers in top-tier conferences.
-        </p>
+        {% if profile.content %}
+          {% include_relative {{ profile.content }} %}
+        {% else %}
+          {{ content }}
+        {% endif %}
       </div>
-
-      <!-- Profile 2 -->
-      <hr>
-      <div class="profile float-right">
-        <img src="assets/img/profile2.jpg" alt="Profile 2" class="img-fluid z-depth-1 rounded" loading="eager">
-        <div class="more-info">Software Engineer, MSc in Robotics</div>
-      </div>
-      <div class="clearfix">
-        <p>
-          Jane Smith specializes in autonomous systems and robotics. She leads development for real-time robotic control systems.
-        </p>
-      </div>
-
-      <!-- Add more profiles similarly -->
-
-    </article>
-  </div>
+    {% endfor %}
+  </article>
 </body>
 </html>
