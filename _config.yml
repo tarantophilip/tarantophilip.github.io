@@ -86,6 +86,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
+bluesky_url: https://bsky.app/profile/tarantophilip.bsky.social
 work_url: https://research.manchester.ac.uk/en/persons/philip-taranto # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
@@ -110,7 +111,7 @@ contact_note:
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-80WB3WFTQE # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
