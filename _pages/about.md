@@ -12,7 +12,7 @@ profile:
   address: >
     <p>Schuster Building 7.13,</p>
     <p>Physics & Astronomy,</p>
-    <p>The University of Manchester,</p>
+    <p>University of Manchester,</p>
     <p>United Kingdom</p>
 
 news: true  # includes a list of news items
@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The University of Manchester](https://www.manchester.ac.uk/), leading the Quantum Information & Spatiotemporal Phenomena (QuISP) research group. I also serve as an editor for [Quantum](https://quantum-journal.org/) journal.
 
-"Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents a unique challenge: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource---imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how it can be harnessed---ranging from the foundations of information processing all the way to practical next-generation paradigms of computation and communication---with a particular focus on spatial-temporal correlations and quantum thermodynamics.
+"Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents a unique challenge: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource --- imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how it can be harnessed, tackling problems that range from the very foundations of information processing all the way to practical next-generation paradigms of computation and communication. 
 
 I was previously a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that, I obtained a PhD in physics at the University of Vienna, Austria (2022). 
 
