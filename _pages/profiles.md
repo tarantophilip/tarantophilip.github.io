@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /team/
 title: Team
 description: Members of the QuISP team
 nav: true
