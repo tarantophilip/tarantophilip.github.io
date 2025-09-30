@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /team/
 title: Team
 description: Members of the QuISP team.
