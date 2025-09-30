@@ -1,5 +1,6 @@
 ---
-permalink: /team/
+layout: page
+permalink: /group/
 title: Group Members
 description: Members of the QuISP team.
 nav: true
