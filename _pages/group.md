@@ -6,19 +6,15 @@ description: Members of the QuISP team.
 nav: true
 nav_order: 2
 
-
-profiles:
-  - align: left
-    image: person1.jpg
-    image_circular: true
-    more_info: "PhD Student"
-    content: "about_einstein.md"
-  - align: right  
-    image: person2.jpg
-    image_circular: true
-    more_info: "Postdoctoral Researcher"
-    content: "_includes/person2-bio.md"
----
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>Schuster Building 7.13,</p>
+    <p>Physics & Astronomy,</p>
+    <p>Univ. of Manchester,</p>
+    <p>United Kingdom</p>
 
 <!-- Optional main content that appears before profiles -->
 Meet our research group members!
