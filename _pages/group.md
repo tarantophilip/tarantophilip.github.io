@@ -1,6 +1,11 @@
 ---
-layout: page
+permalink: /team/
 title: Group Members
+description: Members of the QuISP team.
+nav: true
+nav_order: 2
+
+
 profiles:
   - align: left
     image: person1.jpg
