@@ -1,7 +1,7 @@
 ---
 name: "Philip Taranto"
 role: "Principal Investigator"
-avatar: prof_pic.jpg
+avatar: assets/img/prof_pic.jpg
 email: philip.taranto@manchester.ac.uk
 ---
 
