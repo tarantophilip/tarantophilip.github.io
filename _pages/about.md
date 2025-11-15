@@ -31,6 +31,8 @@ Here you will find a collection of all my papers and theses, some talks and post
 
 All of my scientific articles are freely available on [arXiv](https://arxiv.org/a/0000-0002-4247-3901.html) and some statistics regarding them can be found on [Google Scholar](https://scholar.google.com/citations?user=8RPclskAAAAJ&hl=en).
 
+I am committed to empowering historically excluded and marginalised groups, particularly those facing systemic oppression due to class, race, ethnicity, gender, sexuality, disability, and other dimensions of identity. I advocate for open science and climate justice, and work actively to improve structural and material conditions within academia and beyond. I am against the militarisation of quantum technologies and refuse to seek or accept funding from departments of defence or companies working closely with them.
+
 Feel free to contact me via email: [philip.taranto@manchester.ac.uk](mailto:philip.taranto@manchester.ac.uk). 
 
 [comment]: # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
