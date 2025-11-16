@@ -25,7 +25,7 @@ Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The Univ
 
 "Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents a unique challenge: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource --- imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how it can be harnessed, tackling problems that range from the very foundations of information processing all the way to practical next-generation paradigms of computation and communication. 
 
-I was previously a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that I obtained a PhD in physics at the University of Vienna, Austria (2019-2022). I'm originally from Melbourne, Australia.
+I was a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that I obtained a PhD in physics at the University of Vienna, Austria (2019-2022). I'm originally from Melbourne, Australia.
 
 All of my scientific articles are freely available on [arXiv](https://arxiv.org/a/0000-0002-4247-3901.html) and some statistics regarding them can be found on [Google Scholar](https://scholar.google.com/citations?user=8RPclskAAAAJ&hl=en).
 
