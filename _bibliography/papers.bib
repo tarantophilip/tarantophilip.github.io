@@ -1,6 +1,23 @@
 ---
 ---
 
+@article{taranto2025efficiently,
+  author = {Jessica Bavaresco and Hl\'er Kristj\'ansson and Mio Murao and Tatsuki Odake and Marco T\'ulio Quintino and Philip Taranto and Satoshi Yoshida},
+  journal = {Nat. Commun.}, 
+  pages = {10216},
+  title = {{Simulating the quantum switch with quantum circuits is computationally hard}},
+  volume = {16},
+  year = {2025},
+  doi = {10.1038/s41467-025-64996-6},
+  abstract = {Higher-order transformations acting on input quantum channels in an indefinite causal order—such as the quantum switch—cannot be described by quantum circuits using the same number of calls to the input channels. A natural question is whether they can be simulated, i.e., whether their action can be exactly and deterministically reproduced by a quantum circuit with more calls to the input channels. Here, we prove that the quantum switch acting on two n-qubit channels cannot be simulated by any quantum circuit using k calls to one channel and one to the other, if $k < 2^n$. This establishes an exponential separation in quantum query complexity between processes with indefinite causal order and quantum circuits. Moreover, even with one extra call to both input channels, such a simulation remains impossible. We further demonstrate the robustness of this separation by extending the result to probabilistic and approximate simulations scenarios.},
+  archivePrefix={arXiv},
+  eprint={2409.18202},
+  primaryClass={quant-ph},
+  %pdf = {},   
+  preview = {bavaresco2024switch.jpg},
+  selected = {true}
+}
+
 @misc{niwa2025singular,
   author = {Ryotaro Niwa and Zane Marius Rossi and Philip Taranto and Mio Murao},
   journal = {}, 
@@ -40,44 +57,6 @@ We show our method applies practically to the problem of learning the $q$-th sin
   primaryClass={quant-ph},
   %pdf = {},   
   preview = {taranto2025hoqo.jpg},
-  selected = {true}
-}
-
-@misc{kristjansson2024exponential,
-  author = {Hl\'er Kristj\'ansson and Tatsuki Odake and Satoshi Yoshida and Philip Taranto and Jessica Bavaresco and Marco T\'ulio Quintino and Mio Murao},
-  journal = {}, 
-  number = {},
-  pages = {},
-  publisher = {},
-  title = {{Exponential separation in quantum query complexity of the quantum switch with respect to simulations with standard quantum circuits}},
-  volume = {},
-  month = {},
-  year = {2024},
-  abstract = {Quantum theory is consistent with a computational model permitting black-box operations to be applied in an indefinite causal order, going beyond the standard circuit model of computation. The quantum switch---the simplest such example---has been shown to provide numerous information-processing advantages. Here, we prove that the action of the quantum switch on two $n$-qubit quantum channels cannot be simulated deterministically and exactly by any causally ordered quantum circuit that uses $M$ calls to one channel and one call to the other, if $M\leq max(2,2^n-1)$. This demonstrates an exponential separation in quantum query complexity of indefinite causal order compared to standard quantum circuits.},
-  archivePrefix={arXiv},
-  eprint={2409.18420},
-  primaryClass={quant-ph},
-  %pdf = {},   
-  preview = {kristjansson2024exponential.jpg},
-  selected = {false}
-}
-
-@misc{bavaresco2024switch,
-  author = {Jessica Bavaresco and Satoshi Yoshida and Tatsuki Odake and Hl\'er Kristj\'ansson and Philip Taranto and Mio Murao and Marco T\'ulio Quintino},
-  journal = {}, 
-  number = {},
-  pages = {},
-  publisher = {},
-  title = {{Can the quantum switch be deterministically simulated?}},
-  volume = {},
-  month = {},
-  year = {2024},
-  abstract = {Higher-order transformations that act on a certain number of input quantum channels in an indefinite causal order---such as the quantum switch---cannot be described by standard quantum circuits that use the same number of calls of the input quantum channels. However, the question remains whether they can be simulated, i.e., whether their action on their input channels can be deterministically reproduced, for all arbitrary inputs, by a quantum circuit that uses a larger number of calls of the input channels. Here, we prove that when only one extra call of each input channel is available, the quantum switch cannot be simulated by any quantum circuit. We demonstrate that this result is robust by showing that, even when probabilistic and approximate simulations are considered, higher-order transformations that are close to the quantum switch can be at best simulated with a probability strictly less than one. This result stands in stark contrast with the known fact that, when the quantum switch acts exclusively on unitary channels, its action can be simulated.},
-  archivePrefix={arXiv},
-  eprint={2409.18202},
-  primaryClass={quant-ph},
-  %pdf = {},   
-  preview = {bavaresco2024switch.jpg},
   selected = {true}
 }
 
