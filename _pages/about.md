@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The University of Manchester](https://www.manchester.ac.uk/), co-leading the Manchester Quantum Systems (ManQS) research group. I also serve as an editor for [Quantum](https://quantum-journal.org/) journal and a mentor for [Research Girl](https://www.researchgirl.org/).
+Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The University of Manchester](https://www.manchester.ac.uk/), co-leading the [Manchester Quantum Systems (ManQS)](https://theory.physics.manchester.ac.uk/groups/index.php/home/groups/manqs/) research group. I also serve as an editor for [Quantum](https://quantum-journal.org/) journal and a mentor for [Research Girl](https://www.researchgirl.org/).
 
 "Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents a unique challenge: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource --- imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how it can be harnessed, tackling problems that range from the very foundations of information processing all the way to practical next-generation paradigms of computation and communication. 
 
