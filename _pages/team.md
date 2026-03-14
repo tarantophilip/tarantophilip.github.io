@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: Members of the QuISP team.
+description: Team members.
 nav: true
 nav_order: 2
 ---
