@@ -33,6 +33,6 @@ I was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/) at the University of
 
 All of my scientific articles are freely available on [arXiv](https://arxiv.org/a/0000-0002-4247-3901.html) and some statistics regarding them can be found on [Google Scholar](https://scholar.google.com/citations?user=8RPclskAAAAJ&hl=en).
 
-I am committed to empowering historically excluded and marginalised groups, particularly those facing systemic oppression due to class, race, ethnicity, gender, sexuality, disability, and other dimensions of identity. I advocate for open science and climate justice, and work actively to improve structural and material conditions within academia and beyond. I am against the militarisation of quantum technologies and refuse to seek or accept funding from departments of war/defence or companies working closely with them.
+I am committed to empowering historically excluded and marginalised groups, particularly those facing systemic oppression due to class, race, ethnicity, gender, sexuality, disability, and other dimensions of identity. I advocate for open science and climate justice, and work actively to improve structural and material conditions within academia and beyond. I am against the militarisation of quantum technologies and refuse to seek or accept funding from departments of defence or companies working closely with them.
 
 Feel free to contact me via email: [philip.taranto@manchester.ac.uk](mailto:philip.taranto@manchester.ac.uk). 
