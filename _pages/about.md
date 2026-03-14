@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Schuster Building 7.13,</p>
+    <p>Schuster Building 7.11,</p>
     <p>Physics & Astronomy,</p>
     <p>Univ. of Manchester,</p>
     <p>United Kingdom</p>
@@ -21,9 +21,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The University of Manchester](https://www.manchester.ac.uk/), co-leading the [Manchester Quantum Systems (ManQS)](https://theory.physics.manchester.ac.uk/groups/index.php/home/groups/manqs/) research group. I also serve as an editor for [Quantum](https://quantum-journal.org/) journal and a mentor for [Research Girl](https://www.researchgirl.org/).
+Hey there 👋 I'm Philip Taranto, a Lecturer (Assistant Professor) at [The University of Manchester](https://www.manchester.ac.uk/), co-leading the [Manchester Quantum Systems (ManQS)](https://theory.physics.manchester.ac.uk/groups/index.php/home/groups/manqs/) group. I've always been drawn to questions that sit at the edges of what we think we understand --- which is probably why I ended up in quantum physics!
 
-"Complexity" is a notion that permeates our lives through phenomena like weather patterns, social dynamics, and biochemical reactions. Understanding these systems presents a unique challenge: on the one hand, their complexity makes them inherently difficult to model; on the other, the ability to simulate them would clearly be a powerful resource --- imagine being at a casino and being able to perfectly predict a coin toss! While these examples stem from classical physics, many underlying principles extend to the quantum realm, albeit ultimately manifesting differently. My research investigates what defines quantum complexity and how it can be harnessed, tackling problems that range from the very foundations of information processing all the way to practical next-generation paradigms of computation and communication. 
+"Complexity" is one of those ideas that shows up everywhere: in weather patterns, social dynamics, biochemical reactions. These systems are fascinating precisely because they're so hard to pin down —-- and yet, if you could model them perfectly, the payoff would be extraordinary. Imagine being able to predict a coin toss at a casino! While that's a classical example, the same spirit carries into the quantum world, albeit ultimately manifesting differently. My research explores what quantum complexity actually <em>means</em> and how it can be put to work —-- spanning everything from the foundations of information theory to practical paradigms for next-generation quantum computation and communication.
+
+Right now I'm lucky enough to be co-leading a [UK-Japan quantum technologies](https://www.ukri.org/opportunity/japan-uk-joint-call-for-quantum-technologies-for-innovation/) project on "Distributed and Secure Quantum Computation" and collaborating with Kyushu University (Japan) through a [Royal Society International Collaboration Award](https://royalsociety.org/grants/international-collaboration-awards-ispf/).
+
+Outside of research, I serve as an editor for [Quantum](https://quantum-journal.org/) journal and mentor budding young scientists through [Research Girl](https://www.researchgirl.org/) --- two things I find genuinely rewarding!
 
 I was a JSPS Postdoctoral Fellow at the University of Tokyo, Japan (2022-2025) and before that I obtained a PhD in physics at the University of Vienna, Austria (2019-2022). I'm originally from Melbourne, Australia.
 
