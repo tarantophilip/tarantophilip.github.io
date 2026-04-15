@@ -35,6 +35,6 @@ All of my scientific articles are freely available on [arXiv](https://arxiv.org/
 
 I am committed to empowering historically excluded and marginalised groups, particularly those facing systemic oppression due to class, race, ethnicity, gender, sexuality, disability, and other dimensions of identity. I advocate for open science and climate justice, and work actively to improve structural and material conditions within academia and beyond. I am against the militarisation of quantum technologies and refuse to seek or accept funding from departments of defence or companies working closely with them.
 
-For prospective PhD applicants, please get in touch. Every year, there are various [scholarships offered by UoM](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/); most have deadline around January and are to start in the following October. Should you be interested in working with us, please let me know by around December, so we can discuss suitable options for seeking funding. 
+For prospective PhD applicants: every year, there are various [scholarships offered by UoM](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/); most have deadline around January and are to start in the following October. Should you be interested in working with us, please let me know by around December, so we can discuss suitable options for seeking funding. 
 
 Feel free to contact me via email: [philip.taranto@manchester.ac.uk](mailto:philip.taranto@manchester.ac.uk). 
